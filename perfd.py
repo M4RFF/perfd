@@ -5,7 +5,6 @@ import subprocess
 import re 
 import db
 
-
 temp_perf_file = tempfile.NamedTemporaryFile(delete=False, dir='.')
 # temp_perf_file.name
 
