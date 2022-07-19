@@ -39,5 +39,9 @@
 ### SQL30:
 - **-** **`pip install sql30`**
 
+### Systemd:
+    > `apt-get update -y`
+    > `apt-get install -y systemd`
+
 ## License
 
