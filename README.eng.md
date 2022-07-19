@@ -9,10 +9,10 @@ About Text Here
 ## Documentation
 
 ### BOLT:
--  **`BOLT`** - это оптимизатор пост-компоновки, разработанный для ускорения работы больших приложений.
+-  **`BOLT`** - is a post-link optimizer developed to speed up large applications. It achieves the improvements by optimizing application's code layout based on execution profile gathered by sampling profiler, such as Linux perf tool.
 
 ### SQL30:
--  **`SQL30`** - это нуливое значение ORM(Object–relational mapping) для sqlite3 в Python.
+-  **`SQL30`** - is a zero weight ORM(Object–relational mapping) for sqlite3 in Python.
 -  **`ORM(Object–relational mapping)`** - in computer science is a programming technique for converting data between type systems using object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language. 
 ### Systemd:
 -  **`Systemd`** - это менеджер демонов в Linux. Этот демон позволяет управлять запуском сервисов и обеспечивает такие функции, как мониторинг и логирование.
