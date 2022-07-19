@@ -37,16 +37,16 @@
      **-** **` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** 
    - или, для windows, ``git clone --config core.autocrlf=false
     https://github.com/llvm/llvm-project.git``
-
-- **-** **`mkdir build`** - 2 шаг
-
-- **-** **`cd build`** - 3 шаг
-
-- **-** **`cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`** - 4 шаг
-
-- **-** **`ninja`** - 5 шаг
+2. 2 шаг
+- **-** **`mkdir build`** 
+3. 3 шаг
+- **-** **`cd build`** 
+4. 4 шаг
+- **-** **`cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`**
+5. 5 шан
+- **-** **`ninja`** 
 
 ### SQL30
-- **-** **`pip install sql30`** - SQL30
+- **-** **`pip install sql30`**
 
 ## License
