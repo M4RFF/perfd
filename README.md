@@ -29,6 +29,7 @@
 ## Developers
 
 - [Amir Ayupov](https://github.com/aaupov)
+- [Maxim Shcherbakov](https://github.com/M4RFF)
 
 ## Установка
 ### BOLT
