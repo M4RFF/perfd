@@ -13,7 +13,7 @@ About Text Here
 
 ### SQL30:
 -  **`SQL30`** - это нуливое значение ORM(Object–relational mapping) для sqlite3 в Python.
--  **`ORM(Object–relational mapping)`** - это метод для преобразования данных  между типов систем с использованием объектно ориентированных языков программирования.
+-  **`ORM(Object–relational mapping)`** - in computer science is a programming technique for converting data between type systems using object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language. 
 ### Systemd:
 -  **`Systemd`** - это менеджер демонов в Linux. Этот демон позволяет управлять запуском сервисов и обеспечивает такие функции, как мониторинг и логирование.
 
