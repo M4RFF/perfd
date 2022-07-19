@@ -20,11 +20,6 @@ Perfd реализован, как скрипт на языке Python. Он з�
 ### Systemd:
 - **-** **`Systemd`** - это менеджер демонов в Linux. Этот демон позволяет управлять запуском сервисов и обеспечивает такие функции, как мониторинг и логирование.
 
-## Разработчики
-
-- [Amir Ayupov](https://github.com/aaupov)
-- [Maxim Shcherbakov](https://github.com/M4RFF)
-
 ## Установка
 ### BOLT:
     > ` git clone https://github.com/facebookincubator/BOLT llvm-bolt`
@@ -39,6 +34,11 @@ Perfd реализован, как скрипт на языке Python. Он з�
 ### Systemd:
     > `apt-get update -y`
     > `apt-get install -y systemd`
+
+## Разработчики
+
+- [Amir Ayupov](https://github.com/aaupov)
+- [Maxim Shcherbakov](https://github.com/M4RFF)
 
 ## Лицензия:
 
