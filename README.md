@@ -32,9 +32,9 @@
 
 ## Установка
 ### BOLT
-*1 шаг:
-    **` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** - 1 шаг
-    или, для windows, ``git clone --config core.autocrlf=false
+1. 1 шаг:
+    - **-****` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** 
+    - или, для windows, ``git clone --config core.autocrlf=false
     https://github.com/llvm/llvm-project.git``
 
 - **-** **`mkdir build`** - 2 шаг
