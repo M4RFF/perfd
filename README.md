@@ -32,14 +32,11 @@
 
 ## Установка
 ### BOLT
-     **-** **` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** - 1 шаг
-   - или, для windows, ``git clone --config core.autocrlf=false
-    https://github.com/llvm/llvm-project.git`` - 1 шаг
-- **-** **`mkdir build`** - 2 шаг
-- **-** **`cd build`** - 3 шаг
-- **-** **`cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`** - 4 шаг
-
-- **-** **`ninja`** - 5 шаг
+     ` git clone https://github.com/facebookincubator/BOLT llvm-bolt`
+     `mkdir build`
+     `cd build`
+     `cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`
+     `ninja`
 
 ### SQL30
 - **-** **`pip install sql30`**
