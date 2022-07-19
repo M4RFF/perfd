@@ -29,7 +29,7 @@ Perfd реализован, как скрипт на языке Python. Он з�
     > `ninja`
 
 ### SQL30:
-- **-** **`pip install sql30`**
+-  **`pip install sql30`**
 
 ### Systemd:
     > `apt-get update -y`
