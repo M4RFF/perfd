@@ -40,5 +40,5 @@ Perfd реализован, как скрипт на языке Python. Он з�
     > `apt-get update -y`
     > `apt-get install -y systemd`
 
-## License
+## Лицензия:
 
