@@ -28,7 +28,7 @@
 
 ## Developers
 
-- [Amir Ayupov](GitHub Profile Linkhttps://github.com/aaupov)
+- [Amir Ayupov](https://github.com/aaupov)
 
 ## Установка
 ### BOLT
