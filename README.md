@@ -31,17 +31,18 @@
 - [Delevoper Name](GitHub Profile Link)
 
 ## Установка
-- **-** **` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** - BOLT
+### BOLT
+- **-** **` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** - 1 шаг
 
-- **-** **`mkdir build`** - BOLT
+- **-** **`mkdir build`** - 2 шаг
 
-- **-** **`cd build`** - BOLT
+- **-** **`cd build`** - 3 шаг
 
-- **-** **`cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`** - BOLT
+- **-** **`cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`** - 4 шаг
 
-- **-** **`ninja`** - BOLT
+- **-** **`ninja`** - 5 шаг
 
-
+### SQL30
 - **-** **`pip install sql30`** - SQL30
 
 ## License
