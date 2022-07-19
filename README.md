@@ -20,8 +20,7 @@
 ### SQL30:
 - **-** **`SQL30`** - это нуливое значение ORM(Object–relational mapping) для sqlite3 в Python.
 - **-** **`ORM(Object–relational mapping)`** - это метод для преобразования данных  между типов систем с использованием объектно ориентированных языков программирования.
-- ## Установка:
-- **-** **`pip install sql30`** 
+ 
 ## Distribute
 
 - [Service Name](Page Link)
@@ -30,5 +29,13 @@
 ## Developers
 
 - [Delevoper Name](GitHub Profile Link)
+
+## Установка
+- **-** **`> git clone https://github.com/facebookincubator/BOLT llvm-bolt
+> mkdir build
+> cd build
+> cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"
+> ninja`** - BOLT
+- **-** **`pip install sql30`** - SQL30
 
 ## License
