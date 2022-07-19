@@ -32,10 +32,16 @@
 
 ## Установка
 - **-** **` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** - BOLT
--- **-** **`mkdir build`** - BOLT
--- **-** **`cd build`** - BOLT
--- **-** **`cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`** - BOLT
--- **-** **`ninja`** - BOLT
+
+- **-** **`mkdir build`** - BOLT
+
+- **-** **`cd build`** - BOLT
+
+- **-** **`cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`** - BOLT
+
+- **-** **`ninja`** - BOLT
+
+
 - **-** **`pip install sql30`** - SQL30
 
 ## License
