@@ -33,7 +33,8 @@
 ## Установка
 ### BOLT
 1. 1 шаг:
-    -**-**` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** 
+    
+    -**-** **` git clone https://github.com/facebookincubator/BOLT llvm-bolt`** 
     - или, для windows, ``git clone --config core.autocrlf=false
     https://github.com/llvm/llvm-project.git``
 
