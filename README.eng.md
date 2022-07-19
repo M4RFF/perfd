@@ -1,3 +1,7 @@
+<p align="center">
+      <img src="Project Logo Url" width="726">
+</p>
+
 ## About
 
 About Text Here
@@ -12,6 +16,21 @@ About Text Here
 -  **`ORM(Object–relational mapping)`** - это метод для преобразования данных  между типов систем с использованием объектно ориентированных языков программирования.
 ### Systemd:
 -  **`Systemd`** - это менеджер демонов в Linux. Этот демон позволяет управлять запуском сервисов и обеспечивает такие функции, как мониторинг и логирование.
+
+## Installation
+### BOLT:
+    > ` git clone https://github.com/facebookincubator/BOLT llvm-bolt`
+    >`mkdir build`
+    > `cd build`
+    > `cmake -G Ninja ../llvm-bolt/llvm -DLLVM_TARGETS_TO_BUILD="X86;AArch64" -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON -DLLVM_ENABLE_PROJECTS="clang;lld;bolt"`
+    > `ninja`
+
+### SQL30:
+-  **`pip install sql30`**
+
+### Systemd:
+    > `apt-get update -y`
+    > `apt-get install -y systemd`
 
 
 ## Developers
