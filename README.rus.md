@@ -1,7 +1,7 @@
 <p align="center">
       <img src="Project Logo Url" width="726">
 </p>
-![Screenshot_39](https://user-images.githubusercontent.com/94864283/179858704-e9f0a945-13a1-43bf-b1b0-ef4abd4c011f.png)
+
 
 ## О проекте 
 
