@@ -4,8 +4,10 @@
 
 ## About
 
-About Text Here
+In the framework of this project, an automatic profile information collection system using BOLT technology was introduced. When using profile optimizations, Clang compiler performance increases up to 30%, after the profile has been collected, it should be passed to the compiler for re-optimization, but in many cases recompilation is't possible. 
+BOLT is the technology that solves this problem. BOLT allows for significant acceleration without recompiling.
 
+Perfd is implemented as a Python script. It is registered in the system as a service using systemd. Profile collection uses Linux perf system utility.The database is sqlite.
 ## Documentation
 
 ### BOLT:
