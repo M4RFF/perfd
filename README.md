@@ -28,7 +28,7 @@
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [Amir Ayupov](GitHub Profile Linkhttps://github.com/aaupov)
 
 ## Установка
 ### BOLT
